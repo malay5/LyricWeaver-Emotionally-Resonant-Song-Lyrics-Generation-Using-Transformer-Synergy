@@ -63,3 +63,8 @@ The journey of **LyricWeaver** has surfaced several hurdles:
 **LyricWeaver** stands as a bold step toward AI-powered lyrics generation, uniting GPT-2’s fluency with RoBERTa’s emotional depth to craft lyrics that sing with meaning. Currently, the system generates artist-specific lyrics by taking an artist’s name as input, with early results showing promise in style and coherence. As a mid-evaluation milestone, we’ve laid a solid foundation with trained models and a clear path forward—integrating the models, enhancing structure, and tackling challenges like GPT-2’s context length limit. The potential to revolutionize music creation, inspire artists, and explore AI’s creative frontiers drives us onward. Future efforts will refine our approach, expand dataset diversity, and overcome technical barriers, positioning **LyricWeaver** as a harmony of technology and artistry.
 
 ---
+
+
+AI models can be found here:
+
+https://drive.google.com/drive/folders/1bVGu2z9EQ7DyZzkgNSNYMfhdEtgm-ks4?usp=sharing
