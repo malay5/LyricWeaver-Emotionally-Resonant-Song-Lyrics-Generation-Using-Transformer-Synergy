@@ -68,3 +68,9 @@ The journey of **LyricWeaver** has surfaced several hurdles:
 AI models can be found here:
 
 https://drive.google.com/drive/folders/1bVGu2z9EQ7DyZzkgNSNYMfhdEtgm-ks4?usp=sharing
+
+Incase GPT2_training_15_epochs is not able to open, collab link can be found here for the same:
+
+https://colab.research.google.com/drive/1ehqOnSEhiUzO-Az47fxA2TXbt0U9YdAu?usp=sharing
+
+(issue is ipywidgets)
