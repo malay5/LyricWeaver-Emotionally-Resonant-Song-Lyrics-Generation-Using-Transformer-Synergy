@@ -1,0 +1,3 @@
+Notes:
+
+Base Model: Just normal gpt2 tokenizer is used
