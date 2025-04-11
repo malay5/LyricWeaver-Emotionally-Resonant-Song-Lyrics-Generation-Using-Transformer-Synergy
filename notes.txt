@@ -3,3 +3,8 @@ Notes:
 Base Model: Just normal gpt2 tokenizer is used
 GPT2+Roberta_finetuning.ipynb: Roberta+GPT2 - finetuned as well as new algorithm for it
 gemma_1_2b: Finetuning gemma2b
+
+
+
+https://suno.com/song/3e76a397-f028-4cb4-ad19-0521bd372d65?sh=IquAQWIkKw6yUnvj
+https://suno.com/song/59701a72-07c6-41b6-ade0-be7963c037b7?sh=0s4rYv9PGFckAaVL
