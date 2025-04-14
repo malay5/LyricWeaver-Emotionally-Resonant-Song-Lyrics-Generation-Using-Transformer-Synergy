@@ -73,6 +73,9 @@ Incase GPT2_training_15_epochs is not able to open, collab link can be found her
 
 https://colab.research.google.com/drive/1ehqOnSEhiUzO-Az47fxA2TXbt0U9YdAu?usp=sharing
 
+GPT2+finetuned roberta
+
+https://colab.research.google.com/drive/11V3KsYUDDbyDzmiVmSv8IlgUzRzrbSXm?usp=sharing
 For roberta:
 
 https://colab.research.google.com/drive/1IaMlEGHyeqkluR93GSeynbnEAcdHOHO6?usp=sharing
