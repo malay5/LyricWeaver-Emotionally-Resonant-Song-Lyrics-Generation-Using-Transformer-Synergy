@@ -14,7 +14,7 @@ The inception of **LyricWeaver** stems from a desire to fuse technology with the
 
 ## Dataset Gathering
 
-The backbone of **LyricWeaver** is a meticulously curated dataset of song lyrics and poems. Song lyrics were gathered through web scraping from platforms like Genius and other music databases, spanning genres from pop to hip-hop to folk. Poems, selected for their emotional and thematic richness, were sourced from public domain collections, literary archives, and online poetry repositories. To bolster this, we integrated datasets from Kaggle, amassing over 100,000 song lyrics and 50,000 poems. Preprocessing steps included removing special characters, standardizing text to lowercase, and tokenizing with the GPT-2 tokenizer for model compatibility. The dataset is organized to link lyrics with artist names, enabling the system to generate artist-specific outputs effectively.
+The backbone of **LyricWeaver** is a meticulously curated dataset of song lyrics and poems. Song lyrics were gathered through web scraping from platforms like Genius and other music databases, spanning genres from pop to hip-hop to folk. Poems, selected for their emotional and thematic richness, were sourced from public domain collections, literary archives, and online poetry repositories. To bolster this, we integrated datasets from Kaggle, amassing over 6,000 song lyrics and 10,000 poems. Preprocessing steps included removing special characters, standardizing text to lowercase, and tokenizing with the GPT-2 tokenizer for model compatibility. The dataset is organized to link lyrics with artist names, enabling the system to generate artist-specific outputs effectively.
 
 ## Experiments List
 
